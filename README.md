@@ -12,7 +12,7 @@ This is a responsive web application designed to showcase Arki's Diner menu, his
 * Frontend: HTML, CSS, JavaScript
 * Version Control: Git/GitHub
 
-# 📂 Project Structure
+## 📂 Project Structure
 /arkis-diner
   ├── index.html
   ├── css/
