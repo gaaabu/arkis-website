@@ -12,15 +12,14 @@ This is a responsive web application designed to showcase Arki's Diner menu, his
 * Frontend: HTML, CSS, JavaScript
 * Version Control: Git/GitHub
 
-'''bash
+
 ## 📂 Project Structure
 /arkis-diner
-  ├── index.html
-  ├── css/
-  ├── js/
-  ├── images/
-  └── README.md
-'''
+├── index.html
+├── css/
+├── js/
+├── images/
+└── README.md
 
 ## 🔮 Future Plans
 * 🔑 User Login for Reservations
