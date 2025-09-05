@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'magneto';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../assets/fonts/MAGNETOB.woff') format('woff');
+    }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: black;
+    background-size: cover;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 2% 6%;
+}
+
+nav a{
+    font-family: magneto;
+    list-style: none;
+    text-decoration: none;
+    color: #f8f8ff;
+    font-size: 2rem;
+}
+
+.nav-links {
+    flex: 1;
+    text-align: right;
+}
+
+.nav-links ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 8px 50px;
+}
+
+.nav-links ul li a {
+    text-decoration: none;
+    color: #f8f8ff;
+    font-size: 1.2rem;
+    font-family: "Alegreya", serif;
+
+}
+
+.nav-links ul li a::after {
+    content: '';
+    width: 0%;
+    height: 2px;
+    background-color: #de1305;
+    margin: auto;
+    display: block;
+    transition: .5s;
+}
+
+.nav-links ul li a:hover::after {
+    width: 100%;
+}
