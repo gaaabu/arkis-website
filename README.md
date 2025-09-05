@@ -14,12 +14,14 @@ This is a responsive web application designed to showcase Arki's Diner menu, his
 
 
 ## 📂 Project Structure
+```bash
 /arkis-diner
 ├── index.html
 ├── css/
 ├── js/
 ├── images/
 └─ README.md
+```
 
 
 ## 🔮 Future Plans
