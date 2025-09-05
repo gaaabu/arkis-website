@@ -1,6 +1,6 @@
 # Arki's Diner Website
 
-Arki's Diner Website project by Gabriel Elepaño
+Arki's Diner Website project by Gabriel Elepaño.
 This is a responsive web application designed to showcase Arki's Diner menu, history, and services.
 
 ## 🚀 Features
@@ -17,9 +17,14 @@ This is a responsive web application designed to showcase Arki's Diner menu, his
 ```bash
 /arkis-diner
 ├── index.html
-├── css/
+├── menu.html
+├── assets/
+├──── images/
+├──── css/
+├────── styles.css
+├──── fonts/
+├────── MAGNETOB.woff
 ├── js/
-├── images/
 └─ README.md
 ```
 
