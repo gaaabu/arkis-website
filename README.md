@@ -14,24 +14,13 @@ This is a responsive web application designed to showcase Arki's Diner menu, his
 
 
 ## 📂 Project Structure
-
-#!/bin/bash
-
-#File: tree-md
-
-tree=$(tree -tf --noreport -I '*~' --charset ascii $1 |
-       sed -e 's/| \+/  /g' -e 's/[|`]-\+/ */g' -e 's:\(* \)\(\(.*/\)\([^/]\+\)\):\1[\4](\2):g')
-
-printf "# Project tree\n\n${tree}"
-
-$ tree  
 /arkis-diner
 ├── index.html
 ├── css/
 ├── js/
 ├── images/
 └─ README.md
-$ ./tree-md . 
+
 
 ## 🔮 Future Plans
 * 🔑 User Login for Reservations
