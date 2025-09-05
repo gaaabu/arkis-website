@@ -3,15 +3,16 @@
 Arki's Diner Website project by Gabriel Elepaño
 This is a responsive web application designed to showcase Arki's Diner menu, history, and services.
 
-# 🚀 Features
+## 🚀 Features
 * 🖥️ Responsive design for desktop and mobile
 * 🍽️ Interactive menu pages
 * 📍 Restaurant location & Contact info
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 * Frontend: HTML, CSS, JavaScript
 * Version Control: Git/GitHub
 
+'''bash
 ## 📂 Project Structure
 /arkis-diner
   ├── index.html
@@ -19,17 +20,18 @@ This is a responsive web application designed to showcase Arki's Diner menu, his
   ├── js/
   ├── images/
   └── README.md
+'''
 
-# 🔮 Future Plans
+## 🔮 Future Plans
 * 🔑 User Login for Reservations
 Implement a secure user authentication system so customers can create accounts, log in, and make table reservations online.
 
 * 🛒 Online Ordering System
 Add an integrated ordering feature to allow customers to browse the menu, place orders, and pay directly through the website.
 
-# 🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
-# 📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
